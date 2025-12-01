@@ -1,4 +1,2 @@
-this is a test file
-welcome to hello world
-git test
-are you ok ?
+Git is a distributed version control system.
+Git is free software.
